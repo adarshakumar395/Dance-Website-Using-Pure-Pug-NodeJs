@@ -1,0 +1,24 @@
+{
+  "name": "dancewebsiteadarsha",
+  "version": "1.0.0",
+  "description": "This is a dance website using Pure Pug + NodeJs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/adarshakumar395/Dance-Website-Using-Pure-Pug-NodeJs.git"
+  },
+  "author": "Adarsha Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adarshakumar395/Dance-Website-Using-Pure-Pug-NodeJs/issues"
+  },
+  "homepage": "https://github.com/adarshakumar395/Dance-Website-Using-Pure-Pug-NodeJs#readme",
+  "dependencies": {
+    "express": "^5.1.0",
+    "mongoose": "^8.13.2",
+    "pug": "^3.0.3"
+  }
+}
